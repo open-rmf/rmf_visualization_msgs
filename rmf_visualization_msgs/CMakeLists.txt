@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(rmf_schedule_visualizer_msgs)
+project(rmf_visualization_msgs)
 
 # Default to C++14
 if(NOT CMAKE_CXX_STANDARD)
