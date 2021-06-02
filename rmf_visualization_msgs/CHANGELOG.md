@@ -2,7 +2,7 @@
 
 Forthcoming
 -----------
-1.2.0 (2021-04-XX)
+1.2.0 (2021-06-02)
 ------------------
 * Renamed package to `rmf_visualization_msgs`: [#2](https://github.com/open-rmf/rmf_visualization_msgs/pull/2)
 
