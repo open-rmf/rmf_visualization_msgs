@@ -2,8 +2,8 @@
 Changelog for package rmf_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.1 (2023-06-05)
+------------------
 * Switch CHANGELOG format to rst.
 * Contributors: Yadunund
 
