@@ -2,6 +2,9 @@
 Changelog for package rmf_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.4.0 (2023-06-08)
 ------------------
 
