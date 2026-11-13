@@ -2,6 +2,11 @@
 Changelog for package rmf_visualization_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* bump cmake versions (`#14 <https://github.com/open-rmf/rmf_visualization_msgs/issues/14>`_)
+* Contributors: Aaron Chong
+
 1.7.0 (2026-09-18)
 ------------------
 
